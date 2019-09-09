@@ -6,5 +6,5 @@ Install the package using npm :
 Then, require the package and use it:
  [Comment: To check if this usage is proper]
  var isNullOrEmpty = require('cpm-myfirst-npm-pkg');
- console.log(isNullOrEmpty("")); // true
- console.log(isNullOrEmpty("Hello World")); // false
+ console.log(isNullOrEmpty("")); // true [Sample]
+ console.log(isNullOrEmpty("Hello World")); // false [Sample]
