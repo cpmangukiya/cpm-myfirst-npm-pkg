@@ -1,0 +1,24 @@
+{
+  "name": "cpm-myfirst-npm-pkg",
+  "version": "1.0.0",
+  "description": "This is for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpmangukiya/cpm-myfirst-npm-pkg.git"
+  },
+  "keywords": [
+    "first",
+    "app",
+    "helloworld"
+  ],
+  "author": "Chintan P Mangukiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpmangukiya/cpm-myfirst-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/cpmangukiya/cpm-myfirst-npm-pkg#readme"
+}
